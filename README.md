@@ -42,17 +42,6 @@ Edite o arquivo script.js para adicionar novas funcionalidades ou operações.
 
 Contribuições são sempre bem-vindas!
 Se você encontrar problemas, quiser adicionar melhorias ou novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-## Instalação
 
-```bash
-Clone ou faça o download deste repositório.
-
-Abra o arquivo index.html no seu navegador para acessar a calculadora.
-
-Clique nos botões numéricos e de função para realizar cálculos.
-
-A área de exibição superior mostra o número atual e os resultados das operações.
-
-```
 ## Autor
 - [@Matheus Nascimento](https://github.com/MatheusNascimento-dev)
